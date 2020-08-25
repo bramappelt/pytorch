@@ -1,6 +1,6 @@
 # Pytorch
 
-Investigate runtimes using a cpu and a gpu as training devices.
+Investigate runtimes using a cpu and a gpu as training devices. Python 3.6 was used for this experiment.
 
 The code is adapted from [the pytorch tutorial](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html) and answers the following question:
 
@@ -8,7 +8,7 @@ _Exercise: Try increasing the width of your network (argument 2 of the first nn.
 
 ![Training times for both devices and the model's accuracy for increasing neural net widths](./figure1.png).
 
-To replicate the experiment clone the repo and run `benchmark.py`, Python 3.6 is was used.
+To replicate the experiment clone the repo, install the dependencies if necessary, and run `benchmark.py` and `visuals.py` in the mentioned order.
 
 ## Hardware
 
