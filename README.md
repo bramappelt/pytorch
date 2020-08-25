@@ -8,7 +8,7 @@ _Exercise: Try increasing the width of your network (argument 2 of the first nn.
 
 ![Training times for both devices and the model's accuracy for increasing neural net widths](./figure1.png).
 
-To replicate the experiment clone the repo, install the dependencies if necessary, and run `benchmark.py` and `visuals.py` in the mentioned order.
+To replicate the experiment clone the repo, install the dependencies if necessary, and run `benchmark.py` and `visuals.py` in the mentioned order to produce the graph.
 
 ## Hardware
 
