@@ -1,5 +1,5 @@
 # Pytorch
-Investigate runtimes using a cpu and a gpu as training devices
+Investigate runtimes using a cpu and a gpu as training devices.
 
 The code is adapted from [the pytorch tutorial](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html) and answers the following question:
 
